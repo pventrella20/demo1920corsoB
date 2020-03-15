@@ -7,3 +7,5 @@ Developed in 20 minutes while Dijkstra was relaxing on a café terrace with his 
 Returning to The Netherlands in February 2002, Dijkstra died in Nuenen on 6 August 2002.
 -----------
 Rivisto, tutto ok.
+-----------
+Modificato
